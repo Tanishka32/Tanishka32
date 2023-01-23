@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](![Capture](https://user-images.githubusercontent.com/118731707/210801572-4808ebb7-6a22-430a-88c6-45745c2b12a4.PNG)
 
 <h1 align="center">Hi 👋, I'm Tanishka Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 
 
